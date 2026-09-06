@@ -1,4 +1,4 @@
-# Hello! I'm Mohamed 👋
+# I'm Mohamed 
 
 ### Turning networks into cloud architectures
 
